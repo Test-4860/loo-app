@@ -1,4 +1,4 @@
-github "Test4860/loop-kit" "master"
+github "Test-4860/loop-kit" "master"
 github "LoopKit/CGMBLEKit" "dev"
 github "i-schuetz/SwiftCharts" == 0.6.5
 github "LoopKit/dexcom-share-client-swift" "dev"
